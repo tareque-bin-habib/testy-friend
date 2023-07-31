@@ -1,0 +1,14 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Helvetica;
+}
+.nur {
+  background-color: red;
+  color: white;
+  display: inline-block;
+  padding: 10px 20px;
+  border-radius: 5px;
+  margin-top: 10px;
+}
